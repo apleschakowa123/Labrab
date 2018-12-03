@@ -14,7 +14,7 @@ public:
 	void setzlo();
 	void sethome();
 	void set_zlo(std::string zlo);
-	void set_zlo(std::string home);
+	void set_home(std::string home);
 	std::string gethome();
 	std::string getzlo();
 	~Evil();

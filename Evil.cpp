@@ -36,7 +36,7 @@ void Evil::set_zlo(std::string zlo)
 {
 	m_zlo = zlo;
 }
-void Evil::set_zlo(std::string home)
+void Evil::set_home(std::string home)
 {
 	m_home = home;
 }
